@@ -14,6 +14,7 @@ RAWG gaming api를 사용하여 제작하였습니다.<br>
 * Bootstrap
 * AOS
 * Font-Awesome
+* RAWG gaming api
 
 ## 프로젝트의 기능 설명
 
