@@ -55,6 +55,7 @@ npm run deploy
 * 반응형 구현
 * node.js 활용하여 cache이용. 페이지 뒤로가기 앞으로가기
 * 상세페이지 css 꾸미기
+* 로그인 기능 구현 (firebase)
 
 ## 정보
 
